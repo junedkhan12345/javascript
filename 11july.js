@@ -1,3 +1,4 @@
+console.log("hello world");
 function one(){
     console.log("1")
      two()
