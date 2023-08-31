@@ -1,3 +1,4 @@
+console.log("naved")
 console.log("hello world");
 function one(){
     console.log("1")
